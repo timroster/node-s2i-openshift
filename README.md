@@ -8,7 +8,7 @@ The UI is served by a simple Node.JS Express server, and the overall project goa
 - to illustrate the versatility of Kubernetes based micro services for modernizing traditional applications - for instance mainframe based applications, or classic Java app server applications
 - to experiment and explore open standards front end technologies for rendering custom charts, and for responsive design
 
-This project stands alone in test mode, or integrates with associated projects [ paths to other projects ]
+This project stands alone in test mode, or integrates with associated projects [ TODO add paths to other projects ]
 
 ![architecture](./design/app-modernization-openshift-s2i-architecture-diagram.png)
 
